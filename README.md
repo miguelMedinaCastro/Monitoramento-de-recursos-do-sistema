@@ -54,4 +54,4 @@ gcc main.c -o "nome_executor" -lSDL2 -lSDL2_ttf -lsensors
 
 ## Observação
 
-Atualmente, o código funciona apenas para **Linux(Ubuntu)**. Tenho planos futuros para adaptá-lo e torná-lo compatível com **Windows**.
+Atualmente, o código funciona apenas para **Linux(Ubuntu 20-24)**. Tenho planos futuros para adaptá-lo e torná-lo compatível com **Windows**.
